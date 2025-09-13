@@ -1,0 +1,2 @@
+# Digital-Clock--Alarm
+A modern, interactive web application built using JavaScript, HTML, and CSS. The app features a real-time digital clock, settable alarms with audio notifications, and a glassmorphic UI with particle animations for a sleek, visually appealing design. Fully responsive and mobile-friendly, this project demonstrates skills in JavaScript 
